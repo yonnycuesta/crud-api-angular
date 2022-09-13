@@ -1,0 +1,30 @@
+{
+  "productList": [
+    {
+      "name": "Manzana",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 15000,
+      "date": "2022-09-14T05:00:00.000Z",
+      "id": 1
+    },
+    {
+      "name": "Papas",
+      "category": "Vegetables",
+      "freshness": "Third Hand",
+      "price": 12000,
+      "date": "2022-09-14T05:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
